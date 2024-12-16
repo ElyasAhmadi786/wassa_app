@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487493879495",
+    "firebase_url": "https://code4fun-40c9c-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "code4fun-40c9c",
+    "storage_bucket": "code4fun-40c9c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487493879495:android:ccf691e98d6a8cfd1ca0e2",
+        "android_client_info": {
+          "package_name": "com.example.code4fun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLfB9NFRr4Q4p2WTAzpZdIURSabwyGsOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
